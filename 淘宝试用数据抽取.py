@@ -3,6 +3,7 @@
 #encoding=utf-8
 #edit from Filename:urllib2-header.py
 '''
+以下是取回的数据样例
 {
     "success": true,
     "result": {
